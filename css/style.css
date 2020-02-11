@@ -29,6 +29,7 @@ body {
     background-color: #622E2E;
     color: #FCFCFC;
     font-size: 1.2rem;
+    overflow-x: hidden;
 }
 
 .full-height-grow {
