@@ -18,10 +18,10 @@ Grey - #ADADAD
     margin: 0;
 }
 
-html {
+html, body {
     scroll-behavior: smooth;
     min-height: 100vh;
-    overflow-x: hidden;
+    overflow-x: hidden !important;
 }
 
 body {
