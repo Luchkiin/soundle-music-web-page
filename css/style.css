@@ -29,7 +29,6 @@ body {
     background-color: #622E2E;
     color: #FCFCFC;
     font-size: 1.2rem;
-    overflow-x: hidden;
 }
 
 .full-height-grow {
@@ -704,7 +703,7 @@ body {
 
 @media (min-width: 481px) and (max-width: 767px) {
     body {
-        overflow-x: hidden;
+        overflow-x: hidden !important;
     }
     .brand-logo img {
         width: 80%;
@@ -876,7 +875,7 @@ body {
 
 @media screen and (max-width: 480px) {
     body {
-        overflow-x: hidden;
+        overflow-x: hidden !important;
     }
     .brand-logo img {
         width: 80%;
