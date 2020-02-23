@@ -11,7 +11,7 @@
 
 ## About the Project
 
-<img src="https://github.com/Luchkiin/soundle-music-web-page/blob/master/img/readme-img-cover.png" alt="Logo" width="1280" height="450">
+<img src="https://github.com/Luchkiin/soundle-music-web-page/blob/master/img/readme-img-cover.png" alt="Logo" width="Auto" height="Auto">
 
 Soundle is a static website for a fictional music streaming service. 
 
