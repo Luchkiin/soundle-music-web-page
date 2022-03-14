@@ -1,19 +1,13 @@
 <br />
-<p align="center">
-  <a href="#">
-    <img src="https://github.com/Luchkiin/soundle-music-web-page/blob/master/img/logo-round.png" alt="Logo" width="150" height="150">
-  </a>
-  <h1 align="center">Soundle Music Streaming Service</h1>
-    <p align="center">
-    :arrow_forward: <a href="https://luchkiin.github.io/soundle-music-web-page/"> Live Demo</a>
-  </p>
-</p>
-
-## About the Project
+  <h1 align="left">Soundle</h1>
 
 <img src="https://github.com/Luchkiin/soundle-music-web-page/blob/master/img/readme-img-cover.png" alt="Logo" width="Auto" height="Auto">
 
+## About the Project
+
 Soundle is a static website for a fictional music streaming service. 
+
+<a href="https://luchkiin.github.io/soundle-music-web-page/"> Live Demo</a>
 
 ## Built With
 * HTML
@@ -21,6 +15,6 @@ Soundle is a static website for a fictional music streaming service.
 * JavaScript
 
 ## Contact
-* :email: <a href="mailto:lr@lucasrosendahl.com">lr@lucasrosendahl.com</a>
-* :globe_with_meridians: <a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
-
+* <a href="mailto:lr@lucasrosendahl.com">lr@lucasrosendahl.com</a>
+* <a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
+<br />
